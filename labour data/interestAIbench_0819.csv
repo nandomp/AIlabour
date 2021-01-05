@@ -1,0 +1,762 @@
+"","type","name","benchmarks","results","MP","SI","VP","AP","AS","PA","CE","CO","EC","NV","CL","QL","MS","MC","TaskHierarchies","keyword","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019"
+"1","Dataset","CUB-200-2011","CUB-200-2011","11","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification > Fine-Grained Image Classification 
+Computer Vision > Object Localization > Weakly-Supervised Object Localization 
+","CUB-200-2011",0,0,0,0,0,0,0,3,8,11,25,37
+"2","Dataset","FB15k","FB15k","17","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Graphs > Link Prediction >  
+","FB15k",0,0,0,0,0,1,2,2,9,16,52,80
+"3","Dataset","Pascal3D+","Pascal3D+","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Pose Estimation > Keypoint Detection 
+","Pascal3D+",0,0,0,0,0,0,0,0,1,2,8,2
+"4","Dataset","Static Facial Expressions in the Wild","Static Facial Expressions in the Wild","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Facial Expression Recognition >  
+Computer Vision > Facial Recognition and Modelling > Facial Expression Recognition 
+","Static Facial Expressions in the Wild",0,0,0,0,0,0,0,0,0,0,0,3
+"5","Dataset","20NEWS","20NEWS","3","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Text Classification > Document Classification 
+Natural Language Processing > Text Classification >  
+","20NEWS",1,3,3,5,3,11,17,15,20,22,45,50
+"6","Dataset","300W","300W","9","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Facial Recognition and Modelling > Facial Landmark Detection 
+Computer Vision > Facial Recognition and Modelling > Face Alignment 
+","300W",1,0,0,0,0,0,1,0,4,14,19,10
+"7","Dataset","ACE 2004","ACE 2004","2","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Nested Mention Recognition >  
+Natural Language Processing > Named Entity Recognition > Nested Named Entity Recognition 
+","ACE 2004",0,0,0,1,0,0,0,0,0,0,2,2
+"8","Dataset","ACE 2005","ACE 2005","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Nested Mention Recognition >  
+","ACE 2005",0,1,0,2,0,0,2,1,4,1,10,7
+"9","Dataset","ADE20K","ADE20K","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Semantic Segmentation >  
+","ADE20K",0,0,0,0,0,0,0,0,0,4,22,18
+"10","Dataset","Aerial-to-Map","Aerial-to-Map","12","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Generation > Image-to-Image Translation 
+Computer Vision > Image-to-Image Translation >  
+","Aerial-to-Map",0,0,0,0,0,0,0,0,0,0,0,0
+"11","Dataset","AFAD","AFAD","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Facial Recognition and Modelling > Age Estimation 
+","AFAD",0,0,0,0,0,0,0,0,0,0,0,4
+"12","Dataset","AFLW","AFLW","22","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Facial Recognition and Modelling > Facial Landmark Detection 
+","AFLW",0,0,0,0,0,0,0,0,2,6,5,4
+"13","Dataset","AG News","AG News","13","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Text Classification >  
+","AG News",0,0,0,0,0,0,0,1,0,8,19,22
+"14","Dataset","AI2 Kaggle Dataset","AI2 Kaggle Dataset","4","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","AI2 Kaggle Dataset",0,0,0,0,0,0,0,0,0,0,0,0
+"15","Dataset","Amazon Review","Amazon Review","3","0","0","0","0","0","0","1","0","1","0","0","0","0","0","Natural Language Processing > Sentiment Analysis >  
+","Amazon Review",0,0,1,0,1,1,0,7,6,16,35,32
+"16","Dataset","Annotated Faces in the Wild","Annotated Faces in the Wild","18","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Face Detection >  
+Computer Vision > Facial Recognition and Modelling > Face Detection 
+","Annotated Faces in the Wild",0,0,0,0,0,0,0,0,1,1,0,2
+"17","Dataset","Arcade Learning Environment","Arcade Learning Environment","6","1","1","1","0","1","1","0","0","0","1","0","0","0","0","Playing Games > Atari Games >  
+Playing Games > Video Games > Atari Games 
+","Arcade Learning Environment",0,0,0,0,0,0,2,6,8,16,70,82
+"18","Dataset","bAbi","bAbi","18","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","bAbi",0,0,0,0,0,0,0,0,0,3,4,2
+"19","Dataset","Bing News","Bing News","8","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Miscellaneous > Click-Through Rate Prediction >  
+","Bing News",0,0,0,0,0,0,0,2,1,0,3,2
+"20","Dataset","BIWI","BIWI","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Pose Estimation > Head Pose Estimation 
+","BIWI",0,0,0,0,1,0,0,0,0,0,1,4
+"21","Dataset","BlogCatalog","BlogCatalog","10","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Graphs > Node Classification >  
+","BlogCatalog",0,3,0,0,0,0,2,0,2,10,28,26
+"22","Dataset","Bosch Small Traffic Lights","Bosch Small Traffic Lights","3","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Autonomous Vehicles > Traffic Sign Recognition 
+","Bosch Small Traffic Lights",0,0,0,0,0,0,0,0,0,0,1,0
+"23","Dataset","BP4D","BP4D","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Facial Recognition and Modelling > Facial Action Unit Detection 
+","BP4D",0,0,0,0,0,0,0,0,2,0,5,5
+"24","Dataset","BPI challenge","BPI challenge","1","0","0","0","0","0","0","0","0","0","0","0","1","0","0","Time Series > Time Series Forecasting > Multivariate Time Series Forecasting 
+","BPI challenge",0,0,0,0,0,0,0,0,0,3,4,4
+"25","Dataset","BRATS","BRATS","148","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Medical > Medical Image Segmentation > Brain Tumor Segmentation 
+","BRATS",0,0,0,0,0,0,0,0,2,3,19,30
+"26","Dataset","BSD*","BSD*","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Denoising > Image Denoising 
+Computer Vision > Image Denoising >  
+","BSD*",1,2,3,3,1,2,1,5,17,26,47,51
+"27","Dataset","BUCC","BUCC","6","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Cross-Lingual Bitext Mining >  
+","BUCC",0,0,0,0,0,0,0,0,1,1,1,4
+"28","Dataset","BUS 2017","BUS 2017","3","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Medical > Medical Image Segmentation > Lesion Segmentation 
+","BUS 2017",0,0,0,0,0,0,0,0,0,0,0,0
+"29","Dataset","CACD","CACD","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Face Recognition > Age-Invariant Face Recognition 
+Computer Vision > Facial Recognition and Modelling > Age-Invariant Face Recognition 
+Computer Vision > Facial Recognition and Modelling > Age Estimation 
+Computer Vision > Facial Recognition and Modelling > Face Recognition > Age-Invariant Face Recognition 
+","CACD",0,0,0,0,0,0,0,0,1,0,2,1
+"30","Dataset","CACDVS","CACDVS","15","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Face Recognition > Age-Invariant Face Recognition 
+Computer Vision > Facial Recognition and Modelling > Age-Invariant Face Recognition 
+Computer Vision > Facial Recognition and Modelling > Face Recognition > Age-Invariant Face Recognition 
+","CACDVS",0,0,0,0,0,0,0,0,1,0,0,0
+"31","Dataset","CAFR","CAFR","6","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Face Recognition > Age-Invariant Face Recognition 
+Computer Vision > Facial Recognition and Modelling > Age-Invariant Face Recognition 
+Computer Vision > Facial Recognition and Modelling > Face Recognition > Age-Invariant Face Recognition 
+","CAFR",0,0,0,0,0,0,0,1,0,0,0,0
+"32","Dataset","Caltech","Caltech","10","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification > Fine-Grained Image Classification 
+Computer Vision > Autonomous Vehicles > Lane Detection 
+Computer Vision > Autonomous Vehicles > Pedestrian Detection 
+","Caltech",5,20,18,18,31,18,47,51,78,117,210,263
+"33","Dataset","CamVid","CamVid","25","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Semantic Segmentation > Real-Time Semantic Segmentation 
+Computer Vision > Semantic Segmentation >  
+","CamVid",0,0,0,0,0,0,1,0,2,10,11,14
+"34","Dataset","Cats and Dogs","Cats and Dogs","12","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Generation > Image-to-Image Translation > Multimodal Unsupervised Image-To-Image Translation 
+Computer Vision > Image-to-Image Translation > Multimodal Unsupervised Image-To-Image Translation 
+","Cats and Dogs",0,0,0,0,1,0,4,4,18,46,75,101
+"35","Dataset","CCGBank","CCGBank","5","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > CCG Supertagging >  
+","CCGBank",0,0,0,0,0,0,0,0,0,1,3,2
+"36","Dataset","CelebA","CelebA","1","1","0","1","0","1","0","0","0","0","0","0","1","0","0","Methodology > Transfer Learning > Multi-Task Learning 
+Computer Vision > Image Generation >  
+","CelebA",0,0,0,0,0,0,0,0,14,111,284,262
+"37","Dataset","ChaLearn","ChaLearn","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Facial Recognition and Modelling > Age Estimation 
+","ChaLearn",0,0,0,0,0,1,2,4,7,7,24,16
+"38","Dataset","CHALL","CHALL","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Pose Estimation > 3D Human Pose Estimation 
+","CHALL",0,0,1,0,0,0,0,0,0,2,6,21
+"39","Dataset","Children's Book Test","Children's Book Test","17","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","Children's Book Test",0,0,0,0,0,0,0,0,3,4,8,9
+"40","Dataset","CHiME","CHiME","8","0","0","0","1","1","0","0","0","0","0","0","0","0","0","Speech > Speech Recognition > Distant Speech Recognition 
+","CHiME",0,0,0,0,0,0,0,1,1,3,18,22
+"41","Dataset","Chinese Poems","Chinese Poems","3","0","0","0","0","0","0","1","1","0","0","0","0","0","0","Natural Language Processing > Text Generation >  
+","Chinese Poems",0,0,0,0,0,0,0,0,0,5,5,3
+"42","Dataset","CIFAR","CIFAR","160","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification >  
+Computer Vision > Image Generation > Conditional Image Generation 
+Computer Vision > Image Generation >  
+","CIFAR",0,3,6,11,21,17,48,84,192,503,1439,1771
+"43","Dataset","CIHP","CIHP","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Human Part Segmentation >  
+","CIHP",0,0,0,0,0,0,0,0,0,0,0,0
+"44","Dataset","Citeseer","Citeseer","11","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Graphs > Node Classification >  
+Graphs > Link Prediction >  
+","Citeseer",8,9,11,22,31,38,44,77,141,218,540,1029
+"45","Dataset","Cityscapes","Cityscapes","46","1","0","1","0","1","0","0","0","0","0","0","1","0","0","Methodology > Transfer Learning > Multi-Task Learning 
+Computer Vision > Semantic Segmentation > Real-Time Semantic Segmentation 
+Computer Vision > Semantic Segmentation >  
+Computer Vision > Edge Detection >  
+Computer Vision > Image Generation > Image-to-Image Translation > Synthetic-to-Real Translation 
+Computer Vision > Image Generation > Image-to-Image Translation 
+Computer Vision > Image-to-Image Translation > Synthetic-to-Real Translation 
+Computer Vision > Image-to-Image Translation >  
+","Cityscapes",0,0,0,0,0,0,0,0,1,33,91,91
+"46","Dataset","Click-Through Rate Prediction","Click-Through Rate Prediction","1","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Miscellaneous > Click-Through Rate Prediction >  
+","Click-Through Rate Prediction",0,0,0,0,0,3,7,2,6,12,26,37
+"47","Dataset","CliCR","CliCR","2","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","CliCR",0,0,0,0,0,0,0,0,0,0,1,1
+"48","Dataset","CMU-SE","CMU-SE","1","0","0","0","0","0","0","1","1","0","0","0","0","0","0","Natural Language Processing > Text Generation >  
+","CMU-SE",0,0,0,0,0,0,0,0,0,1,1,1
+"49","Dataset","CNN / Daily Mail","CNN / Daily Mail","39","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Text Summarization > Document Summarization 
+Natural Language Processing > Question Answering >  
+","CNN / Daily Mail",0,0,0,0,0,0,0,2,2,13,43,36
+"50","Dataset","COCO","COCO","45","1","0","1","0","1","0","1","1","0","0","0","0","0","0","Natural Language Processing > Text Generation >  
+Computer Vision > Pose Estimation > Keypoint Detection 
+Computer Vision > Pose Estimation > Multi-Person Pose Estimation 
+Computer Vision > Pose Estimation >  
+Computer Vision > Object Detection > Weakly Supervised Object Detection 
+Computer Vision > Object Detection > Real-Time Object Detection 
+Computer Vision > Object Detection >  
+Computer Vision > Visual Question Answering >  
+Computer Vision > Image Generation > Text-to-Image Generation 
+Computer Vision > Image Generation >  
+","COCO",0,0,0,0,0,0,3,21,38,128,346,356
+"51","Dataset","Cohn-Kanade","Cohn-Kanade","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Facial Expression Recognition >  
+Computer Vision > Facial Recognition and Modelling > Facial Expression Recognition 
+","Cohn-Kanade",0,0,0,0,0,1,2,2,3,4,20,8
+"52","Dataset","CompCars","CompCars","3","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification > Fine-Grained Image Classification 
+","CompCars",0,0,0,0,0,0,0,1,0,0,1,2
+"53","Dataset","COMPLEXQUESTIONS","COMPLEXQUESTIONS","1","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","COMPLEXQUESTIONS",0,0,0,0,0,0,0,0,0,0,0,2
+"54","Dataset","CoNLL","CoNLL","43","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing","CoNLL",8,17,16,22,15,23,33,60,69,101,272,222
+"55","Dataset","CoQA","CoQA","25","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","CoQA",0,0,0,0,0,0,0,0,0,0,4,22
+"56","Dataset","Cora","Cora","11","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Graphs > Node Classification >  
+Graphs > Link Prediction >  
+","Cora",3,2,5,4,16,17,16,24,32,52,128,237
+"57","Dataset","CR","CR","2","0","0","0","0","0","0","1","0","1","0","0","1","0","0","Natural Language Processing > Sentiment Analysis >  
+Natural Language Processing > Relation Extraction >  
+Natural Language Processing > Question Answering >  
+","CR",8,15,20,32,41,64,61,84,115,228,508,614
+"58","Dataset","Criteo","Criteo","16","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Miscellaneous > Click-Through Rate Prediction >  
+","Criteo",0,0,0,0,0,2,0,3,6,16,46,59
+"59","Dataset","CT-150","CT-150","6","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Medical > Medical Image Segmentation > Pancreas Segmentation 
+","CT-150",0,0,0,0,0,0,0,0,0,0,0,0
+"60","Dataset","CUB","CUB","8","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Methodology > Meta-Learning > Few-Shot Image Classification 
+Computer Vision > Image Classification > Fine-Grained Image Classification 
+Computer Vision > Image Classification > Few-Shot Image Classification 
+Computer Vision > Object Localization > Weakly-Supervised Object Localization 
+Computer Vision > Image Generation > Text-to-Image Generation 
+Computer Vision > Image Generation >  
+","CUB",0,0,1,6,2,0,3,10,24,27,109,118
+"61","Dataset","CUFS","CUFS","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Sketch > Face Sketch Synthesis 
+Computer Vision > Facial Recognition and Modelling > Face Sketch Synthesis 
+","CUFS",0,0,0,0,0,0,0,0,2,0,4,2
+"62","Dataset","CUFSF","CUFSF","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Sketch > Face Sketch Synthesis 
+Computer Vision > Facial Recognition and Modelling > Face Sketch Synthesis 
+","CUFSF",0,0,0,0,0,0,0,0,0,0,3,2
+"63","Dataset","CUHK","CUHK","8","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Sketch > Face Sketch Synthesis 
+Computer Vision > Facial Recognition and Modelling > Face Sketch Synthesis 
+","CUHK",3,5,4,3,6,4,7,19,24,28,95,67
+"64","Dataset","DailyDialog","DailyDialog","4","0","0","0","0","0","0","1","1","0","0","0","0","0","0","Natural Language Processing > Text Generation >  
+","DailyDialog",0,0,0,0,0,0,0,0,0,0,4,17
+"65","Dataset","DBpedia","DBpedia","11","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Text Classification >  
+","DBpedia",3,2,6,5,12,17,16,34,20,41,122,155
+"66","Dataset","DensePose-COCO","DensePose-COCO","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Pose Estimation >  
+","DensePose-COCO",0,0,0,0,0,0,0,0,0,0,2,1
+"67","Dataset","Dianping","Dianping","8","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Miscellaneous > Click-Through Rate Prediction >  
+","Dianping",0,0,0,0,0,1,0,2,1,2,0,9
+"68","Dataset","DIC HeLa","DIC HeLa","1","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Medical > Medical Image Segmentation > Cell Segmentation 
+","DIC HeLa",0,0,0,0,0,0,0,0,0,0,0,0
+"69","Dataset","DISFA","DISFA","3","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Facial Expression Recognition > Smile Recognition 
+Computer Vision > Facial Recognition and Modelling > Smile Recognition 
+Computer Vision > Facial Recognition and Modelling > Facial Expression Recognition > Smile Recognition 
+","DISFA",0,0,0,0,0,0,0,0,1,0,5,4
+"70","Dataset","Disguised Faces in the Wild","Disguised Faces in the Wild","10","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Face Verification > Disguised Face Verification 
+Computer Vision > Facial Recognition and Modelling > Face Verification > Disguised Face Verification 
+","Disguised Faces in the Wild",0,0,0,0,0,0,0,0,0,0,0,0
+"71","Dataset","Douban","Douban","5","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Miscellaneous > Recommendation Systems > Collaborative Filtering 
+","Douban",0,0,0,0,1,1,3,3,3,7,15,16
+"72","Dataset","DRIVE","DRIVE","8","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Medical > Medical Image Segmentation > Retinal Vessel Segmentation 
+","DRIVE",16,30,29,41,68,63,80,119,283,426,858,1154
+"73","Dataset","DUC 2004 Task 1","DUC 2004 Task 1","24","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Text Summarization >  
+","DUC 2004 Task 1",0,0,0,0,0,0,0,0,0,0,1,1
+"74","Dataset","DukeMTMC-reID","DukeMTMC-reID","32","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Person Re-Identification >  
+","DukeMTMC-reID",0,0,0,0,0,0,0,0,0,0,6,4
+"75","Dataset","DuReader","DuReader","1","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering > Open-Domain Question Answering 
+","DuReader",0,0,0,0,0,0,0,0,0,0,1,4
+"76","Dataset","ECCV HotOrNot","ECCV HotOrNot","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Facial Recognition and Modelling > Facial Beauty Prediction 
+","ECCV HotOrNot",0,0,0,0,0,0,0,0,0,0,0,0
+"77","Game","Go","Go","4","1","0","1","0","0","1","0","0","0","0","0","0","0","0","Playing Games > Board Games","Go",54,99,91,167,199,207,272,387,1058,1771,3198,3887
+"78","Game","Shogi","Shogi","4","1","0","1","0","0","1","0","0","0","0","0","0","0","0","Playing Games > Board Games ","Shogi",0,0,0,0,1,0,0,0,0,2,50,91
+"79","Dataset","EMNLP 2017","EMNLP 2017","12","0","0","0","0","0","0","1","1","0","0","0","0","0","0","Natural Language Processing > Text Generation >  
+","EMNLP 2017",0,0,0,0,0,0,0,0,0,11,129,89
+"80","Dataset","enwiki8","enwiki8","22","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Language Modelling >  
+","enwiki8",0,0,0,0,0,0,0,0,0,0,0,6
+"81","Dataset","Event2Mind","Event2Mind","4","1","0","0","0","0","0","0","0","0","0","1","1","0","0","Reasoning > Common Sense Reasoning >  
+","Event2Mind",0,0,0,0,0,0,0,0,0,0,1,5
+"82","Dataset","Fashion-MNIST","Fashion-MNIST","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification >  
+","Fashion-MNIST",0,0,0,0,0,0,0,0,0,18,238,443
+"83","Dataset","FB15k-237","FB15k-237","12","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Graphs > Link Prediction >  
+","FB15k-237",0,0,0,0,0,0,0,0,1,4,24,53
+"84","Dataset","FCE","FCE","6","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Grammatical Error Correction > Grammatical Error Detection 
+","FCE",0,0,0,0,0,0,0,1,1,8,18,20
+"85","Dataset","FDDB","FDDB","18","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Face Detection >  
+Computer Vision > Facial Recognition and Modelling > Face Detection 
+","FDDB",0,0,0,0,0,0,0,0,1,2,4,6
+"86","Dataset","FFHQ","FFHQ","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Generation >  
+","FFHQ",0,0,0,0,0,0,0,0,0,0,1,21
+"87","Dataset","FGNET","FGNET","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Facial Recognition and Modelling > Age Estimation 
+","FGNET",0,0,1,0,1,2,0,2,3,1,7,10
+"88","Dataset","FGVC Aircraft","FGVC Aircraft","3","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification > Fine-Grained Image Classification 
+","FGVC Aircraft",0,0,0,0,0,0,0,0,0,3,7,16
+"89","Dataset","fisher WER","fisher WER","2","0","0","0","1","0","0","0","0","0","0","0","0","0","0","Speech > Speech Recognition >  
+","fisher WER",0,0,0,0,0,0,0,0,0,0,0,0
+"90","Dataset","FLIC","FLIC","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Pose Estimation","FLIC",0,0,0,0,0,0,2,0,3,1,3,1
+"91","Dataset","Flixster","Flixster","3","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Miscellaneous > Recommendation Systems > Collaborative Filtering 
+","Flixster",0,0,0,1,1,2,6,3,2,8,6,11
+"92","Dataset","Florence","Florence","9","0","0","1","0","1","0","0","0","0","0","0","1","0","0","Computer Vision > Face Reconstruction > 3D Face Reconstruction 
+Computer Vision > Facial Recognition and Modelling > Face Reconstruction > 3D Face Reconstruction 
+Computer Vision > Facial Recognition and Modelling > 3D Face Reconstruction 
+","Florence",1,0,1,1,2,6,13,6,22,35,73,147
+"93","Dataset","Flowers-102","Flowers-102","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification > Fine-Grained Image Classification 
+","Flowers-102",0,0,0,0,1,0,0,1,2,8,7,12
+"94","Dataset","GENIA","GENIA","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Nested Mention Recognition >  
+","GENIA",1,1,2,1,0,1,4,1,2,2,3,6
+"95","Dataset","GigaWord","GigaWord","42","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Text Summarization >  
+","GigaWord",0,0,0,2,0,1,0,1,0,1,8,3
+"96","Dataset","GLUE","GLUE","1","1","0","0","0","0","0","0","0","0","0","0","1","0","0","Methodology > Transfer Learning > Multi-Task Learning 
+","GLUE",1,3,4,2,4,2,2,1,21,16,38,150
+"97","Dataset","Google Dataset","Google Dataset","12","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Sentence Embeddings > Sentence Compression 
+Methodology > Representation Learning > Sentence Embeddings > Sentence Compression 
+","Google Dataset",1,1,1,0,0,2,1,5,2,5,7,16
+"98","Dataset","Google Street Images","Google Street Images","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Safety Perception Recognition","Google Street Images",0,0,0,0,0,0,0,1,0,0,0,1
+"99","Game","GTA V","GTA V","18","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Generation > Image-to-Image Translation > Synthetic-to-Real Translation 
+Computer Vision > Image-to-Image Translation > Synthetic-to-Real Translation 
+","GTA V",0,0,0,0,0,0,0,0,0,3,4,3
+"100","Dataset","GTSRB","GTSRB","3","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Autonomous Vehicles > Traffic Sign Recognition 
+","GTSRB",0,0,0,0,1,1,0,1,3,5,23,44
+"101","Dataset","HANDS 2017","HANDS 2017","3","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Hand Pose Estimation >  
+Computer Vision > Pose Estimation > Hand Pose Estimation 
+Computer Vision > Hand > Hand Pose Estimation 
+","HANDS 2017",0,0,0,0,0,0,0,0,0,0,0,0
+"102","Dataset","Helpdesk","Helpdesk","1","0","0","0","0","0","0","0","0","0","0","0","1","0","0","Time Series > Time Series Forecasting > Multivariate Time Series Forecasting 
+","Helpdesk",1,0,0,0,2,0,0,0,4,4,12,5
+"103","Dataset","HIV dataset","HIV dataset","2","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Medical > Drug Discovery >  
+","HIV dataset",0,1,0,0,0,1,1,0,4,6,8,7
+"104","Dataset","HotpotQA","HotpotQA","1","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","HotpotQA",0,0,0,0,0,0,0,0,0,0,0,22
+"105","Dataset","Human3.6M","Human3.6M","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Pose Estimation > 3D Human Pose Estimation 
+","Human3.6M",0,0,0,0,0,0,0,0,5,5,16,19
+"106","Dataset","Hutter Prize","Hutter Prize","22","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Language Modelling >  
+","Hutter Prize",0,0,0,2,0,1,0,0,4,7,3,8
+"107","Dataset","ICSI MRDA Corpus","ICSI MRDA Corpus","2","0","0","0","0","0","0","1","0","0","0","1","0","0","0","Natural Language Processing > Dialogue Act Classification ","ICSI MRDA Corpus",0,0,0,0,0,0,0,0,0,0,0,0
+"108","Dataset","ICVL Hands","ICVL Hands","15","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Hand Pose Estimation >  
+Computer Vision > Pose Estimation > Hand Pose Estimation 
+Computer Vision > Hand > Hand Pose Estimation 
+","ICVL Hands",0,0,0,0,0,0,0,0,0,0,0,0
+"109","Dataset","IDHP","IDHP","10","0","0","0","0","0","0","0","0","0","0","0","1","0","0","Miscellaneous > Causal Inference >  
+","IDHP",0,0,0,0,0,0,0,0,0,0,0,2
+"110","Dataset","IEMOCAP","IEMOCAP","4","0","0","0","0","0","0","1","0","1","0","0","0","0","0","Natural Language Processing > Emotion Recognition > Emotion Recognition in Conversation 
+Natural Language Processing > Emotion Recognition > Multimodal Emotion Recognition 
+","IEMOCAP",0,0,0,0,0,0,0,0,0,3,24,34
+"111","Dataset","IJB","IJB","35","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Face Verification >  
+Computer Vision > Facial Recognition and Modelling > Face Identification 
+Computer Vision > Facial Recognition and Modelling > Face Verification 
+","IJB",0,0,0,0,1,3,1,0,1,9,21,46
+"112","Dataset","ILSVRC","ILSVRC","3","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Computer Vision > Object Localization > Weakly-Supervised Object Localization 
+","ILSVRC",0,0,0,2,3,8,11,30,61,136,276,269
+"113","Dataset","ImageNet","ImageNet","43","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Computer Vision > Image Classification > Few-Shot Image Classification 
+Computer Vision > Image Classification >  
+Computer Vision > Object Detection > Video Object Detection 
+Computer Vision > Object Detection > Weakly Supervised Object Detection 
+Computer Vision > Object Detection >  
+Computer Vision > Image Generation > Conditional Image Generation 
+Methodology > Meta-Learning > Few-Shot Image Classification ","ImageNet",0,0,7,9,14,27,47,113,267,620,1655,2000
+"114","Dataset","IMDb","IMDb","12","0","0","0","0","0","0","1","0","1","0","0","1","0","0","Natural Language Processing > Text Classification > Document Classification 
+Natural Language Processing > Text Classification >  
+Natural Language Processing > Sentiment Analysis >  
+","IMDb",5,5,5,10,9,9,19,29,33,105,213,241
+"115","Dataset","iNaturalist","iNaturalist","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification >  
+","iNaturalist",0,0,0,0,0,0,1,0,0,2,4,15
+"116","Dataset","Indian Pines","Indian Pines","6","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification > Hyperspectral Image Classification 
+Computer Vision > Hyperspectral > Hyperspectral Image Classification 
+","Indian Pines",0,0,0,1,0,0,0,0,3,1,11,13
+"117","Dataset","iPinYou","iPinYou","4","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Miscellaneous > Click-Through Rate Prediction >  
+","iPinYou",0,0,0,0,0,0,0,0,0,1,2,2
+"118","Dataset","ISBI 2012 EM Segmentation","ISBI 2012 EM Segmentation","1","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Medical > Medical Image Segmentation >  
+","ISBI 2012 EM Segmentation",0,0,0,0,1,0,0,0,0,0,0,0
+"119","Dataset","iSEG 2017 Challenge","iSEG 2017 Challenge","2","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Medical > Medical Image Segmentation > Infant Brain Mri Segmentation 
+Medical > Medical Image Segmentation >  
+","iSEG 2017 Challenge",0,0,0,0,0,0,0,0,0,0,1,2
+"120","Dataset","ISIC 2018","ISIC 2018","3","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Medical > Medical Image Segmentation > Lesion Segmentation 
+","ISIC 2018",0,0,0,0,0,0,0,0,0,0,4,7
+"121","Dataset","ITOP","ITOP","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Pose Estimation >  
+","ITOP",0,0,0,0,1,0,0,0,0,0,0,1
+"122","Dataset","IWSLT","IWSLT","24","0","0","0","0","0","0","1","0","0","0","1","0","0","0","Natural Language Processing > Machine Translation >  
+","IWSLT",0,1,0,1,2,0,2,3,4,13,62,40
+"123","Dataset","JFLEG","JFLEG","2","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Grammatical Error Correction > Grammatical Error Detection 
+Natural Language Processing > Grammatical Error Correction >  
+","JFLEG",0,0,0,0,0,0,0,0,0,0,4,3
+"124","Dataset","JIGSAWS","JIGSAWS","1","0","0","1","0","1","0","0","0","0","0","0","1","0","0","Medical > Surgical Skills Evaluation >  
+","JIGSAWS",0,1,0,0,1,0,0,0,2,2,1,5
+"125","Dataset","Kaggle Skin Lesion Segmentation","Kaggle Skin Lesion Segmentation","6","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Medical > Medical Image Segmentation > Skin Cancer Segmentation 
+","Kaggle Skin Lesion Segmentation",0,0,0,0,0,0,0,0,0,0,0,0
+"126","Dataset","KITTI","KITTI","69","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Object Localization ","KITTI",0,1,0,0,1,4,4,2,15,28,81,110
+"127","Dataset","Labeled Faces in the Wild","Labeled Faces in the Wild","24","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Face Verification >  
+Computer Vision > Facial Recognition and Modelling > Face Verification 
+","Labeled Faces in the Wild",0,0,0,2,2,3,6,4,23,25,55,42
+"128","Dataset","Leeds Sports Poses","Leeds Sports Poses","6","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Pose Estimation >  
+","Leeds Sports Poses",0,0,0,0,0,0,1,0,0,0,1,0
+"129","Dataset","LexNorm","LexNorm","4","0","0","0","0","1","0","1","0","0","0","0","0","0","0","Natural Language Processing > Lexical Normalization >  
+","LexNorm",0,0,0,0,0,0,0,0,0,0,0,1
+"130","Dataset","LibriSpeech","LibriSpeech","15","0","0","0","1","0","0","0","0","0","0","0","0","0","0","Speech > Speech Recognition >  
+","LibriSpeech",0,0,0,0,0,0,0,0,2,7,26,39
+"131","Dataset","LineMOD","LineMOD","5","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Pose Estimation > 6D Pose Estimation 
+","LineMOD",0,0,0,0,0,0,0,0,1,1,0,1
+"132","Dataset","Long-tail emerging entities","Long-tail emerging entities","5","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Named Entity Recognition >  
+","Long-tail emerging entities",0,0,0,0,0,0,0,0,0,0,0,0
+"133","Dataset","LSUN Bedroom 256 x 256","LSUN Bedroom 256 x 256","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Generation >  
+","LSUN Bedroom 256 x 256",0,0,0,0,0,0,0,0,0,0,0,0
+"134","Dataset","LUNA","LUNA","6","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Medical > Medical Image Segmentation > Lung Nodule Segmentation 
+","LUNA",0,0,0,2,3,6,5,1,4,17,47,43
+"135","Dataset","MAFA","MAFA","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Face Detection > Occluded Face Detection 
+Computer Vision > Facial Recognition and Modelling > Face Detection > Occluded Face Detection 
+","MAFA",0,0,0,0,0,0,1,0,1,0,0,0
+"136","Dataset","Mandarin Chinese","Mandarin Chinese","3","0","0","0","1","0","0","0","1","0","0","0","0","0","0","Speech > Speech Synthesis >  
+","Mandarin Chinese",0,0,0,0,1,0,1,1,0,4,7,8
+"137","Dataset","Market 1501","Market 1501","44","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Person Re-Identification >  
+","Market 1501",0,0,0,0,0,0,0,0,1,2,14,9
+"138","Dataset","MCTest","MCTest","3","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","MCTest",0,0,0,0,0,0,0,4,9,9,21,17
+"139","Dataset","Medical domain","Medical domain","24","0","0","0","0","0","0","1","0","0","0","1","0","0","0","Natural Language Processing > Hypernym Discovery >  
+","Medical domain",2,3,2,2,2,4,2,9,15,29,84,133
+"140","Dataset","MegaFace","MegaFace","18","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Face Verification >  
+Computer Vision > Facial Recognition and Modelling > Face Identification 
+Computer Vision > Facial Recognition and Modelling > Face Verification 
+","MegaFace",0,0,0,0,0,0,0,0,4,7,7,4
+"141","Dataset","METR-LA","METR-LA","1","0","0","0","0","0","0","0","0","0","0","0","1","0","0","Time Series > Traffic Prediction >  
+","METR-LA",0,0,0,0,0,0,0,0,0,0,2,7
+"142","Dataset","MHP","MHP","8","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Human Parsing > Multi-Human Parsing 
+","MHP",0,0,0,0,0,0,0,0,3,4,8,5
+"143","Dataset","Million Song Dataset","Million Song Dataset","4","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Miscellaneous > Recommendation Systems > Collaborative Filtering 
+","Million Song Dataset",0,0,0,0,2,4,8,11,16,15,36,29
+"144","Dataset","MIMIC-III","MIMIC-III","24","0","0","0","0","0","0","0","0","0","0","0","1","0","0","Medical > Mortality Prediction >  
+","MIMIC-III",0,0,0,0,0,0,0,0,6,16,89,125
+"145","Dataset","Mini-ImageNet","Mini-ImageNet","26","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Methodology > Meta-Learning > Few-Shot Image Classification 
+Computer Vision > Image Classification > Few-Shot Image Classification 
+","Mini-ImageNet",0,0,0,0,0,0,0,0,1,9,35,68
+"146","Dataset","MLDoc","MLDoc","12","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Cross-Lingual > Cross-Lingual Document Classification 
+","MLDoc",0,0,0,0,0,0,0,0,0,0,0,3
+"147","Dataset","MMI","MMI","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Facial Expression Recognition >  
+Computer Vision > Facial Recognition and Modelling > Facial Expression Recognition 
+","MMI",0,1,0,2,4,1,1,5,4,8,34,43
+"148","Dataset","MNIST","MNIST","52","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Unsupervised Image-To-Image Translation >  
+Computer Vision > Image Classification > Sequential Image Classification 
+Computer Vision > Image Classification >  
+Computer Vision > Image Generation > Image-to-Image Translation > Unsupervised Image-To-Image Translation 
+Computer Vision > Image-to-Image Translation > Unsupervised Image-To-Image Translation 
+","MNIST",12,30,24,40,60,62,123,207,383,880,2048,2329
+"149","Dataset","ModelNet40","ModelNet40","3","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Object Recognition > 3D Object Recognition 
+","ModelNet40",0,0,0,0,0,0,0,0,3,5,16,34
+"150","Dataset","Monologue","Monologue","1","0","0","0","0","0","0","1","0","1","0","0","0","0","0","Natural Language Processing > Emotion Recognition > Multimodal Emotion Recognition 
+","Monologue",1,1,0,0,1,1,0,0,5,1,11,14
+"151","Dataset","MORPH","MORPH","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Face Recognition > Age-Invariant Face Recognition 
+Computer Vision > Facial Recognition and Modelling > Age-Invariant Face Recognition 
+Computer Vision > Facial Recognition and Modelling > Age Estimation 
+Computer Vision > Facial Recognition and Modelling > Face Recognition > Age-Invariant Face Recognition 
+","MORPH",1,1,2,0,4,0,5,5,14,18,40,57
+"152","Dataset","MORPH Album2","MORPH Album2","11","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Face Recognition > Age-Invariant Face Recognition 
+Computer Vision > Facial Recognition and Modelling > Age-Invariant Face Recognition 
+Computer Vision > Facial Recognition and Modelling > Age Estimation 
+Computer Vision > Facial Recognition and Modelling > Face Recognition > Age-Invariant Face Recognition 
+","MORPH Album2",0,0,0,0,0,0,0,0,1,0,0,0
+"153","Dataset","MOSI","MOSI","4","0","0","0","0","0","0","1","0","1","0","0","0","0","0","Natural Language Processing > Sentiment Analysis > Multimodal Sentiment Analysis 
+","MOSI",0,0,0,0,0,0,0,0,0,1,11,17
+"154","Dataset","MovieLens","MovieLens","28","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Miscellaneous > Recommendation Systems > Collaborative Filtering 
+Miscellaneous > Click-Through Rate Prediction >  
+","MovieLens",7,5,6,13,27,19,36,36,66,87,137,144
+"155","Dataset","MPII","MPII","20","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Gaze Estimation >  
+","MPII",0,1,0,1,0,1,0,0,5,7,18,16
+"156","Dataset","MPQA","MPQA","1","0","0","0","0","0","0","1","0","1","0","0","0","0","0","Natural Language Processing > Sentiment Analysis >  
+","MPQA",0,4,2,3,5,3,2,10,10,5,24,16
+"157","Dataset","MR","MR","8","0","0","0","0","1","0","1","1","1","0","1","0","0","0","Natural Language Processing > Sentiment Analysis >  
+Natural Language Processing > Dialogue > Dialogue Act Classification 
+Graphs > Link Prediction >  
+","MR",12,32,26,39,54,77,75,97,153,249,640,797
+"158","Dataset","MRR","MRR","1","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Graphs > Link Prediction >  
+","MRR",1,3,1,2,5,7,6,17,21,41,131,149
+"159","Dataset","MS COCO","MS COCO","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Generation > Text-to-Image Generation 
+","MS COCO",0,0,0,0,0,0,0,9,13,46,123,84
+"160","Dataset","MS MARCO","MS MARCO","9","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","MS MARCO",0,0,0,0,0,0,0,0,14,9,22,22
+"161","Dataset","MSRA","MSRA","39","0","0","1","0","1","0","1","0","0","0","0","0","0","0","Natural Language Processing > Named Entity Recognition > Chinese Named Entity Recognition 
+Computer Vision > Hand Pose Estimation >  
+Computer Vision > Pose Estimation > Hand Pose Estimation 
+Computer Vision > Hand > Hand Pose Estimation 
+","MSRA",0,3,2,1,1,5,5,9,3,19,26,26
+"162","Dataset","Multi-Domain Sentiment Dataset","Multi-Domain Sentiment Dataset","20","0","0","0","0","0","0","1","0","1","0","0","0","0","0","Natural Language Processing > Sentiment Analysis >  
+","Multi-Domain Sentiment Dataset",0,0,2,3,0,0,0,0,3,2,2,3
+"163","Dataset","MultiMNIST","MultiMNIST","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification >  
+","MultiMNIST",0,0,0,0,0,0,0,0,2,3,15,10
+"164","Dataset","MultiNLI","MultiNLI","10","0","0","0","0","0","0","1","0","0","0","1","0","0","0","Natural Language Processing > Natural Language Inference >  
+","MultiNLI",0,0,0,0,0,0,0,0,0,0,38,36
+"165","Dataset","MultiRC","MultiRC","1","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","MultiRC",0,0,0,0,0,0,0,0,0,0,2,8
+"166","Dataset","Mushroom","Mushroom","2","0","0","0","0","0","1","0","0","0","0","0","0","0","0","Miscellaneous > Multi-Armed Bandits
+","Mushroom",4,6,4,2,12,7,17,22,20,29,69,69
+"167","Dataset","Music domain","Music domain","21","0","0","0","0","0","0","1","0","0","0","1","0","0","0","Natural Language Processing > Hypernym Discovery >  
+","Music domain",0,0,0,1,2,3,3,2,3,6,10,26
+"168","Dataset","MUV","MUV","2","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Medical > Drug Discovery >  
+","MUV",0,0,0,0,1,2,0,2,4,6,5,15
+"169","Dataset","NABirds","NABirds","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification > Fine-Grained Image Classification 
+","NABirds",0,0,0,0,0,0,0,0,0,0,5,0
+"170","Dataset","NarrativeQA","NarrativeQA","18","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","NarrativeQA",0,0,0,0,0,0,0,0,0,1,12,10
+"171","Dataset","NELL","NELL","3","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Graphs > Node Classification >  
+","NELL",0,0,0,5,3,6,6,13,11,15,40,56
+"172","Prize","Netflix","Netflix","6","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Miscellaneous > Recommendation Systems > Collaborative Filtering 
+","Netflix",4,11,12,19,30,25,58,54,115,166,245,242
+"173","Dataset","New York Times Corpus","New York Times Corpus","10","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Relationship Extraction (Distant Supervised) >  
+","New York Times Corpus",0,0,1,1,0,3,1,2,1,6,7,5
+"174","Dataset","NewsQA","NewsQA","8","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","NewsQA",0,0,0,0,0,0,0,0,3,2,18,9
+"175","Dataset","North American English","North American English","6","0","0","0","1","0","0","0","1","0","0","0","0","0","0","Speech > Speech Synthesis >  
+","North American English",0,0,0,0,0,0,0,0,0,1,1,8
+"176","Dataset","Noun Phrase Canonicalization","Noun Phrase Canonicalization","9","1","0","0","0","1","0","0","0","0","0","1","0","0","0","Knowledge Base > Knowledge Graphs > Open Knowledge Graph Canonicalization 
+","Noun Phrase Canonicalization",0,0,0,0,0,0,0,0,0,0,0,0
+"177","Dataset","NYU Depth v2","NYU Depth v2","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Object Detection > 3D Object Detection 
+","NYU Depth v2",0,0,0,0,0,0,2,4,1,4,3,8
+"178","Dataset","NYU Hands","NYU Hands","15","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Hand Pose Estimation >  
+Computer Vision > Pose Estimation > Hand Pose Estimation 
+Computer Vision > Hand > Hand Pose Estimation 
+","NYU Hands",0,0,0,0,0,0,0,0,0,0,0,0
+"179","Dataset","Occluded LINEMOD","Occluded LINEMOD","3","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Pose Estimation > 6D Pose Estimation 
+","Occluded LINEMOD",0,0,0,0,0,0,0,0,0,0,0,0
+"180","Dataset","OCCLUSION","OCCLUSION","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Pose Estimation > 6D Pose Estimation 
+","OCCLUSION",7,10,11,16,15,17,20,27,56,113,285,286
+"181","Dataset","Ohsumed","Ohsumed","3","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Text Classification >  
+","Ohsumed",2,10,1,5,5,1,5,2,2,10,11,15
+"182","Dataset","OMNIGLOT","OMNIGLOT","24","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Methodology > Meta-Learning > Few-Shot Image Classification 
+Computer Vision > Image Classification > Few-Shot Image Classification 
+","OMNIGLOT",0,0,0,0,0,1,1,1,18,39,122,120
+"183","Dataset","One Billion Word","One Billion Word","28","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Language Modelling >  
+","One Billion Word",0,0,0,0,0,0,0,2,11,20,38,27
+"184","Dataset","OntoNotes","OntoNotes","9","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Named Entity Recognition > Chinese Named Entity Recognition 
+Natural Language Processing > Semantic Role Labeling >  
+","OntoNotes",0,0,0,0,0,3,0,5,4,7,24,24
+"185","Dataset","Oxford IIIT Pets","Oxford-IIIT Pets","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification > Fine-Grained Image Classification 
+","Oxford IIIT Pets",0,0,0,0,0,0,0,0,0,0,2,2
+"186","Dataset","Oxford 102 Flowers","Oxford 102 Flowers","7","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification > Fine-Grained Image Classification 
+Computer Vision > Image Generation > Text-to-Image Generation 
+Computer Vision > Image Generation >  
+","Oxford 102 Flowers",0,0,0,0,0,0,0,1,2,0,3,6
+"187","Dataset","PA-100K","PA-100K","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Autonomous Vehicles > Pedestrian Attribute Recognition 
+","PA-100K",0,0,0,0,0,0,0,0,0,0,0,2
+"188","Dataset","Par6k","Par6k","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Retrieval >  
+","Par6k",0,0,0,0,0,0,0,0,0,0,0,0
+"189","Dataset","PASCAL VOC","PASCAL VOC","77","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Semantic Segmentation","PASCAL VOC",1,4,6,10,10,11,24,22,31,55,150,96
+"190","Dataset","Pavia University","Pavia University","6","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification > Hyperspectral Image Classification 
+Computer Vision > Hyperspectral > Hyperspectral Image Classification 
+","Pavia University",0,0,0,0,0,0,1,0,1,0,11,10
+"191","Dataset","PCBA","PCBA","2","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Medical > Drug Discovery >  
+","PCBA",0,0,0,0,0,0,0,1,1,6,1,3
+"192","Dataset","Penn Treebank","Penn Treebank","123","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Constituency Parsing >  
+Natural Language Processing > Chunking >  
+Natural Language Processing > Dependency Parsing > Transition-Based Dependency Parsing 
+Natural Language Processing > Dependency Parsing >  
+Natural Language Processing > Language Modelling >  
+Natural Language Processing > Part-Of-Speech Tagging >  
+","Penn Treebank",6,9,7,10,4,10,7,21,40,63,148,127
+"193","Dataset","PETA","PETA","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Autonomous Vehicles > Pedestrian Attribute Recognition 
+","PETA",0,1,1,1,0,2,0,1,1,1,6,12
+"194","Dataset","PhC-U373","PhC-U373","1","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Medical > Medical Image Segmentation > Cell Segmentation 
+","PhC-U373",0,0,0,0,0,0,0,0,0,0,0,0
+"195","Dataset","Photo Art 50","Photo Art 50","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Object Recognition > Depiction Invariant Object Recognition 
+","Photo Art 50",0,0,0,0,0,0,0,0,0,0,0,0
+"196","Dataset","PROMISE 2012","PROMISE 2012","2","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Medical > Medical Image Segmentation > Volumetric Medical Image Segmentation 
+","PROMISE 2012",0,0,0,0,0,0,0,0,0,0,0,0
+"197","Dataset","Pubmed","Pubmed","11","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Graphs > Node Classification >  
+Graphs > Link Prediction >  
+","Pubmed",1,6,3,7,9,8,18,16,32,50,141,256
+"198","Dataset","QAngaroo","QAngaroo","1","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","QAngaroo",0,0,0,0,0,0,0,0,0,0,4,6
+"199","Dataset","QASent","QASent","14","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","QASent",0,0,0,0,0,0,0,0,1,0,0,0
+"200","Dataset","QM9","QM9","3","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Medical > Drug Discovery >  
+","QM9",0,0,0,0,0,0,0,1,0,7,21,45
+"201","Dataset","QuAC","QuAC","3","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","QuAC",0,0,0,0,0,0,0,0,0,0,4,18
+"202","Dataset","Quasar","Quasar","10","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering > Open-Domain Question Answering 
+","Quasar",3,0,1,2,2,5,1,1,0,2,12,14
+"203","Dataset","Quora Question Pairs","Quora Question Pairs","7","0","0","0","0","0","0","1","0","0","0","1","1","0","0","Natural Language Processing > Paraphrase Identification >  
+Natural Language Processing > Natural Language Inference >  
+Natural Language Processing > Question Answering >  
+","Quora Question Pairs",0,0,0,0,0,0,0,0,0,7,10,28
+"204","Dataset","R52","R52","2","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Text Classification >  
+","R52",0,0,4,1,3,3,4,2,2,8,19,27
+"205","Dataset","R8","R8","2","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Text Classification >  
+","R8",3,9,7,24,26,15,19,38,67,97,199,291
+"206","Dataset","RACE","RACE","6","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","RACE",3,7,11,20,18,29,22,50,153,238,513,664
+"207","Dataset","RaFD","RaFD","8","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Generation > Image-to-Image Translation 
+Computer Vision > Image-to-Image Translation >  
+","RaFD",0,0,0,0,0,0,0,0,0,1,1,5
+"208","Dataset","RAP","RAP","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Autonomous Vehicles > Pedestrian Attribute Recognition 
+","RAP",1,4,3,2,0,4,1,6,13,12,26,26
+"209","Dataset","Real-World Affective Faces","Real-World Affective Faces","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Facial Expression Recognition >  
+Computer Vision > Facial Recognition and Modelling > Facial Expression Recognition 
+","Real-World Affective Faces",0,0,0,0,0,0,0,0,0,0,2,1
+"210","Dataset","RecipeQA","RecipeQA","1","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","RecipeQA",0,0,0,0,0,0,0,0,0,0,0,1
+"211","Dataset","NER","NER","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Named Entity Recognition > Chinese Named Entity Recognition 
+","NER",4,5,2,6,10,15,14,24,39,48,149,243
+"212","Dataset","Reuters-21578","Reuters-21578","1","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Text Classification > Document Classification 
+","Reuters-21578",2,4,1,8,8,9,8,4,18,12,28,29
+"213","Dataset","Reverb","Reverb","2","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","Reverb",0,0,0,1,0,1,0,6,1,6,11,15
+"214","Dataset","RotoWire","RotoWire","12","0","0","0","0","0","0","1","1","0","0","0","0","0","0","Natural Language Processing > Text Generation > Data-to-Text Generation 
+","RotoWire",0,0,0,0,0,0,0,0,0,0,0,1
+"215","Dataset","RT-GENE","RT-GENE","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Gaze Estimation >  
+","RT-GENE",0,0,0,0,0,0,0,0,0,0,1,0
+"216","Dataset","RumourEval","RumourEval","2","0","0","0","0","0","0","1","0","1","0","0","0","0","0","Natural Language Processing > Stance Detection >  
+","RumourEval",0,0,0,0,0,0,0,0,0,0,2,5
+"217","Dataset","RVL-CDIP","RVL-CDIP","8","0","1","1","1","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification > Document Image Classification 
+Computer Vision > Document Image Classification >  
+","RVL-CDIP",0,0,0,0,0,0,0,0,0,0,0,1
+"218","Dataset","SBD","SBD","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Edge Detection >  
+","SBD",0,0,0,1,0,0,1,0,1,5,10,12
+"219","Dataset","Scan2CAD","Scan2CAD","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > 3D > 3D Reconstruction 
+Computer Vision > 3D Reconstruction >  
+","Scan2CAD",0,0,0,0,0,0,0,0,0,0,0,4
+"220","Dataset","ScanNet","ScanNet","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Semantic Segmentation > Scene Segmentation 
+","ScanNet",0,0,0,0,0,0,0,0,0,1,8,12
+"221","Dataset","SciTail","SciTail","5","0","0","0","0","0","0","1","0","0","0","1","0","0","0","Natural Language Processing > Natural Language Inference >  
+","SciTail",0,0,0,0,0,0,0,0,0,0,11,8
+"222","Dataset","SCUT-FBP","SCUT-FBP","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Facial Recognition and Modelling > Facial Beauty Prediction 
+","SCUT-FBP",0,0,0,0,0,0,0,0,1,0,0,1
+"223","Dataset","SearchQA","SearchQA","24","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering > Open-Domain Question Answering 
+","SearchQA",0,0,0,0,0,0,1,0,0,0,15,10
+"224","Dataset","Second dialogue state tracking challenge","Second dialogue state tracking challenge","20","0","0","0","0","1","0","1","1","0","0","0","0","0","0","Natural Language Processing > Dialogue > Dialogue State Tracking 
+","Second dialogue state tracking challenge",0,0,0,0,0,0,0,0,0,0,2,0
+"225","Dataset","SemEval","SemEval","55","0","0","0","0","0","0","1","0","1","0","1","1","0","0","Natural Language Processing > Text Classification > Emotion Classification 
+Natural Language Processing > Relationship Extraction (Distant Supervised) >  
+Natural Language Processing > Sentiment Analysis > Aspect-Based Sentiment Analysis 
+Natural Language Processing > Sentiment Analysis >  
+Natural Language Processing > Question Answering >  
+Natural Language Processing > Hypernym Discovery >  
+","SemEval",2,3,2,2,4,3,9,21,38,44,125,144
+"226","Dataset","SensEval","SensEval",NA,"0","0","0","0","0","0","1","0","1","0","0","1","0","0","Natural Language Processing > Word Sense Disambiguation","SensEval",0,0,0,0,1,0,0,2,0,0,3,1
+"227","Dataset","SentEval","SentEval","12","0","0","0","0","0","0","1","0","1","0","0","1","0","0","Natural Language Processing > Semantic Textual Similarity >  
+","SentEval",0,0,0,0,0,0,0,0,0,0,11,11
+"228","Dataset","Sentihood","Sentihood","6","0","0","0","0","0","0","1","0","1","0","0","1","0","0","Natural Language Processing > Sentiment Analysis > Aspect-Based Sentiment Analysis 
+","Sentihood",0,0,0,0,0,0,0,0,0,0,1,2
+"229","Dataset","Sequential MNIST","Sequential MNIST","10","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification > Sequential Image Classification 
+","Sequential MNIST",0,0,0,0,0,0,0,0,4,11,18,13
+"230","Dataset","ShanghaiTech","ShanghaiTech","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Crowds > Crowd Counting 
+","ShanghaiTech",0,0,0,0,0,0,1,0,0,3,8,12
+"231","Dataset","ShapeNet","ShapeNet","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Semantic Segmentation >  
+","ShapeNet",0,0,0,0,0,0,0,1,5,12,56,39
+"232","Dataset","SighanNER","SighanNER","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Named Entity Recognition > Chinese Named Entity Recognition 
+","SighanNER",0,0,0,0,0,0,0,0,0,0,0,0
+"233","Dataset","SimpleQuestions","SimpleQuestions","1","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","SimpleQuestions",1,1,0,2,2,3,0,5,7,13,20,40
+"234","Dataset","Sintel","Sintel","6","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Optical Flow Estimation >  
+","Sintel",0,0,0,0,0,1,0,1,2,3,4,8
+"235","Dataset","SK-LARGE","SK-LARGE","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Object Detection > Object Skeleton Detection 
+","SK-LARGE",0,0,0,0,0,0,0,0,0,0,1,0
+"236","Dataset","SLAM 2018","SLAM 2018","1","1","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Language Acquisition >  
+","SLAM 2018",0,0,0,0,0,0,0,0,0,0,2,1
+"237","Dataset","SNLI","SNLI","194","0","0","0","0","0","0","1","0","0","0","1","0","0","0","Natural Language Processing > Natural Language Inference >  
+","SNLI",0,0,0,0,0,0,0,0,3,13,74,61
+"238","Dataset","Sogou News","Sogou News","1","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Text Classification >  
+","Sogou News",0,0,0,0,0,0,0,1,0,1,4,2
+"239","Dataset","spider","spider","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Semantic Parsing >  
+","spider",1,3,2,2,2,0,3,11,9,27,67,92
+"240","Dataset","SQuAD","SQuAD","413","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","SQuAD",0,0,0,0,0,0,0,0,7,13,126,150
+"241","Dataset","SR11Deep","SR11Deep","1","0","0","0","0","0","0","1","1","0","0","0","0","0","0","Natural Language Processing > Text Generation > Data-to-Text Generation 
+","SR11Deep",0,0,0,0,0,0,0,0,0,0,0,0
+"242","Dataset","SST","SST","31","0","0","0","0","0","0","1","0","1","0","0","0","0","0","Natural Language Processing > Sentiment Analysis >  
+","SST",0,2,0,5,4,7,3,5,10,11,87,116
+"243","Dataset","Stanford Cars","Stanford Cars","5","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification > Fine-Grained Image Classification 
+Computer Vision > Image Retrieval >  
+","Stanford Cars",0,0,0,0,0,0,0,0,0,2,12,19
+"244","Dataset","Stanford Dogs","Stanford Dogs","2","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification > Fine-Grained Image Classification 
+","Stanford Dogs",0,0,0,0,2,0,0,1,3,3,16,18
+"245","Dataset","STARE","STARE","6","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Medical > Medical Image Segmentation > Retinal Vessel Segmentation 
+","STARE",0,0,1,0,0,0,0,0,2,11,14,16
+"246","Dataset","STL-10","STL-10","19","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification >  
+","STL-10",0,0,0,3,4,4,5,5,11,25,35,54
+"247","Dataset","Story Cloze Test","Story Cloze Test","4","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","Story Cloze Test",0,0,0,0,0,0,0,0,0,2,6,4
+"248","Dataset","STS","STS","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Semantic Textual Similarity >  
+","STS",2,1,3,3,5,2,8,10,14,19,57,110
+"249","Dataset","SUBJ","SUBJ","9","0","0","0","0","0","0","1","0","1","0","0","0","0","0","Natural Language Processing > Subjectivity Analysis >  
+Natural Language Processing > Sentiment Analysis >  
+","SUBJ",3,4,4,4,7,6,6,11,19,26,66,50
+"250","Dataset","SUN-RGBD","SUN-RGBD","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Object Detection > 3D Object Detection 
+Computer Vision > Semantic Segmentation > Scene Segmentation 
+","SUN-RGBD",0,0,0,0,0,0,0,0,2,3,11,6
+"251","Dataset","SVHN","SVHN","25","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Classification >  
+","SVHN",0,0,0,0,0,5,4,10,47,102,307,358
+"252","Dataset","SVNH-to-MNIST","SVNH-to-MNIST","12","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Unsupervised Image-To-Image Translation >  
+Computer Vision > Image Generation > Image-to-Image Translation > Unsupervised Image-To-Image Translation 
+Computer Vision > Image-to-Image Translation > Unsupervised Image-To-Image Translation 
+","SVNH-to-MNIST",0,0,0,0,0,0,0,0,0,0,0,0
+"253","Dataset","SWAG","SWAG","8","1","0","0","0","0","0","0","0","0","0","1","1","0","0","Reasoning > Common Sense Reasoning >  
+","SWAG",0,0,0,0,0,1,0,0,1,0,5,38
+"254","Dataset","Switchboard","Switchboard","32","0","0","0","0","1","0","1","1","0","0","1","0","0","0","Natural Language Processing > Dialogue > Dialogue Act Classification 
+","Switchboard",3,2,0,2,0,2,0,3,12,9,35,36
+"255","Dataset","SYNTHIA","SYNTHIA","12","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Image Generation > Image-to-Image Translation 
+Computer Vision > Image-to-Image Translation >  
+","SYNTHIA",0,0,0,0,0,0,0,0,0,4,19,21
+"256","Dataset","T-LESS","T-LESS","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Pose Estimation > 6D Pose Estimation 
+","T-LESS",0,0,0,0,0,1,0,1,0,2,5,8
+"257","Dataset","TACRED","TACRED","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Relation Extraction >  
+","TACRED",0,0,0,0,0,0,0,0,0,0,3,3
+"258","Dataset","TCIA Pancreas CT","TCIA Pancreas CT","2","0","0","1","0","1","0","0","0","0","0","1","0","0","0","Medical > Medical Image Segmentation > 3D Medical Imaging Segmentation 
+","TCIA Pancreas CT",0,0,0,0,0,0,0,0,0,0,0,0
+"259","Dataset","TempEval-3","TempEval-3","2","0","0","0","0","1","0","1","0","0","0","0","0","0","0","Natural Language Processing > Information Extraction > Temporal Information Extraction 
+","TempEval-3",0,0,0,0,0,0,1,0,0,1,4,3
+"260","Dataset","Text8","Text8","19","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Language Modelling >  
+","Text8",1,0,0,0,1,6,2,4,7,17,46,33
+"261","Dataset","The ARRAU Corpus","The ARRAU Corpus","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Anaphora Resolution > Abstract Anaphora Resolution 
+","The ARRAU Corpus",0,0,0,0,0,0,0,0,0,1,0,0
+"262","Dataset","TimeBank","TimeBank","2","0","0","0","0","1","0","1","0","0","0","0","0","0","0","Natural Language Processing > Information Extraction > Temporal Information Extraction 
+","TimeBank",0,2,0,1,0,1,0,0,0,0,6,7
+"263","Dataset","TIMIT","TIMIT","18","0","0","0","1","0","0","0","0","0","0","0","0","0","0","Speech > Speech Recognition >  
+","TIMIT",0,2,2,4,7,7,8,21,25,48,63,66
+"264","Dataset","Tox21","Tox21","3","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Medical > Drug Discovery >  
+","Tox21",0,0,0,0,0,0,0,3,2,9,19,20
+"265","Dataset","ToxCast","ToxCast","2","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Medical > Drug Discovery >  
+","ToxCast",0,0,0,0,0,0,0,0,0,4,3,3
+"266","Dataset","TREC","TREC","24","0","0","0","0","1","0","1","0","0","0","0","1","0","0","Natural Language Processing > Ad-Hoc Information Retrieval >  
+Natural Language Processing > Text Classification >  
+","TREC",12,25,12,18,18,16,17,23,26,24,95,72
+"267","Dataset","TrecQA","TrecQA","8","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","TrecQA",1,1,2,3,1,0,0,1,1,3,11,4
+"268","Dataset","TriviaQA","TriviaQA","8","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","TriviaQA",0,0,0,0,0,0,0,0,0,2,26,32
+"269","Dataset","Tsinghua-Tencent","Tsinghua-Tencent","3","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Autonomous Vehicles > Traffic Sign Recognition 
+","Tsinghua-Tencent",0,0,0,0,0,0,0,2,0,1,7,1
+"270","Dataset","TuSimple","TuSimple","4","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Autonomous Vehicles > Lane Detection 
+","TuSimple",0,0,0,0,0,0,0,0,0,1,4,3
+"271","Dataset","Twitter Dialogue","Twitter Dialogue","8","0","0","0","0","1","0","1","1","0","0","0","0","0","0","Natural Language Processing > Question Answering >  
+","Twitter Dialogue",0,0,0,0,0,0,1,0,1,1,1,4
+"272","Dataset","Ubuntu Dialogue ","Ubuntu Dialogue ","16","0","0","0","0","1","0","1","1","0","0","0","0","0","0","Natural Language Processing > Question Answering >  
+","Ubuntu Dialogue ",0,0,0,0,0,0,0,0,6,9,24,25
+"273","Dataset","UCF CC 50","UCF CC 50","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Crowds > Crowd Counting 
+","UCF CC 50",0,0,0,0,0,0,0,0,0,0,2,5
+"274","Dataset","UD","UD","3","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Part-Of-Speech Tagging >  
+","UD",2,2,5,9,10,18,16,23,36,55,136,167
+"275","Dataset","Urban100","Urban100","67","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Super Resolution > Image Super-Resolution 
+","Urban100",0,0,0,0,0,0,0,0,0,3,7,7
+"276","Dataset","UT Multi-view","UT Multi-view","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Gaze Estimation >  
+","UT Multi-view",0,0,0,0,0,0,0,0,0,0,0,0
+"277","Dataset","UTKFace","UTKFace","1","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Facial Recognition and Modelling > Age Estimation 
+","UTKFace",0,0,0,0,0,0,0,0,0,0,0,10
+"278","Dataset","V-SNLI","V-SNLI","2","0","0","0","0","0","0","1","0","0","0","1","0","0","0","Natural Language Processing > Natural Language Inference >  
+","V-SNLI",0,0,0,0,0,0,0,0,0,0,0,2
+"279","Dataset","VggFace2","VggFace2","3","0","1","1","1","1","0","0","0","0","0","0","1","0","0","Computer Vision > Image Inpainting > Facial Inpainting 
+Computer Vision > Image Generation > Facial Inpainting 
+Computer Vision > Facial Recognition and Modelling > Facial Inpainting 
+","VggFace2",0,0,0,0,0,0,0,0,1,0,0,2
+"280","Dataset","Vid4","Vid4","34","1","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Video > Video Super-Resolution 
+Computer Vision > Super Resolution > Video Super-Resolution 
+","Vid4",0,0,0,0,0,0,0,0,0,1,1,1
+"281","Dataset","Visual7W","Visual7W","2","1","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Visual Question Answering >  
+","Visual7W",0,0,0,0,0,0,0,0,2,7,26,22
+"282","Dataset","VoxForge","VoxForge","9","0","0","0","1","1","0","0","0","0","0","0","0","0","0","Speech > Speech Recognition > Accented Speech Recognition 
+","VoxForge",0,0,0,0,0,1,0,0,1,1,1,4
+"283","Dataset","WAF","WAF","3","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Pose Estimation > Multi-Person Pose Estimation 
+","WAF",1,0,0,0,2,2,0,1,0,3,3,4
+"284","Dataset","WebFace","WebFace","3","0","1","1","1","1","0","0","0","0","0","0","1","0","0","Computer Vision > Image Inpainting > Facial Inpainting 
+Computer Vision > Image Generation > Facial Inpainting 
+Computer Vision > Facial Recognition and Modelling > Facial Inpainting 
+","WebFace",0,0,0,0,0,0,0,0,1,5,11,9
+"285","Dataset","WebNLG","WebNLG","1","0","0","0","0","0","0","1","1","0","0","0","0","0","0","Natural Language Processing > Text Generation > Data-to-Text Generation 
+","WebNLG",0,0,0,0,0,0,0,0,0,0,2,4
+"286","Dataset","WebQuestions","WebQuestions","3","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","WebQuestions",0,0,0,0,0,0,0,4,2,2,7,10
+"287","Dataset","Weibo NER","Weibo NER","2","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Named Entity Recognition > Chinese Named Entity Recognition 
+","Weibo NER",0,0,0,0,0,0,0,0,0,0,0,0
+"288","Dataset","WikiBio","WikiBio","6","0","0","0","0","0","0","1","1","0","0","0","0","0","0","Natural Language Processing > Text Generation > Table-to-text Generation 
+","WikiBio",0,0,0,0,0,0,0,0,0,0,2,0
+"289","Dataset","WikiHop","WikiHop","4","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","WikiHop",0,0,0,0,0,0,0,0,0,0,7,6
+"290","Dataset","Wikipedia","Wikipedia","10","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Graphs > Node Classification >  
+","Wikipedia",18,26,30,49,68,83,81,165,283,393,843,949
+"291","Dataset","WikiQA","WikiQA","26","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Question Answering >  
+","WikiQA",0,0,0,0,0,0,0,0,3,7,19,5
+"292","Dataset","WikiSQL","WikiSQL","2","0","0","0","0","0","0","1","0","0","0","1","0","0","0","Computer Code > SQL-to-Text >  
+","WikiSQL",0,0,0,0,0,0,0,0,0,0,13,14
+"293","Dataset","WikiText-103","WikiText-103","31","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Language Modelling >  
+","WikiText-103",0,0,0,0,0,0,0,0,0,1,11,23
+"294","Dataset","WikiText-2","WikiText-2","32","0","0","0","0","0","0","1","0","0","0","0","0","0","0","Natural Language Processing > Language Modelling >  
+","WikiText-2",0,0,0,0,0,0,0,0,0,4,37,28
+"295","Dataset","Winograd Schema Challenge","Winograd Schema Challenge","4","1","0","0","0","0","0","0","0","0","0","1","1","0","0","Reasoning > Common Sense Reasoning >  
+","Winograd Schema Challenge",0,0,0,0,1,0,0,2,5,8,16,29
+"296","Dataset","Wizard-of-Oz","Wizard-of-Oz","6","0","0","0","0","1","0","1","1","0","0","0","0","0","0","Natural Language Processing > Dialogue > Dialogue State Tracking 
+","Wizard-of-Oz",0,1,1,1,1,0,0,0,2,6,10,39
+"297","Dataset","WMT","WMT","132","0","0","0","0","0","0","1","0","0","0","1","0","0","0","Natural Language Processing > Machine Translation >  
+","WMT",0,2,1,2,5,5,5,9,24,37,120,135
+"298","Dataset","WN18","WN18","33","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Graphs > Link Prediction >  
+","WN18",0,0,0,0,0,0,1,2,5,14,37,60
+"299","Dataset","WOS","WOS","6","0","0","0","0","0","0","1","0","0","0","0","1","0","0","Natural Language Processing > Text Classification > Document Classification 
+","WOS",0,0,0,0,1,0,1,1,0,3,10,10
+"300","Dataset","WSJ","WSJ","8","0","0","0","1","0","0","0","0","0","0","0","0","0","0","Speech > Speech Recognition >  
+","WSJ",4,4,3,10,2,9,1,15,20,30,68,85
+"301","Dataset","XNLI","XNLI","11","0","0","0","0","0","0","1","0","0","0","1","0","0","0","Natural Language Processing > Natural Language Inference > Cross-Lingual Natural Language Inference 
+","XNLI",0,0,0,0,0,0,0,0,0,0,3,13
+"302","Dataset","Yahoo! Answers","Yahoo! Answers","4","0","0","0","0","0","0","1","1","0","0","0","1","0","0","Natural Language Processing > Text Classification >  
+","Yahoo! Answers",2,2,1,8,3,7,5,10,10,19,26,12
+"303","Dataset","YCB-Video","YCB-Video","3","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Pose Estimation > 6D Pose Estimation 
+","YCB-Video",0,0,0,0,0,0,0,0,0,0,0,2
+"304","Dataset","Yelp","Yelp","17","0","0","0","0","0","0","1","0","1","0","0","0","0","0","Natural Language Processing > Sentiment Analysis >  
+","Yelp",0,0,0,1,2,8,9,19,39,55,144,112
+"305","Dataset","YouTube Faces","YouTube Faces","18","0","0","1","0","1","0","0","0","0","0","0","0","0","0","Computer Vision > Face Verification >  
+Computer Vision > Facial Recognition and Modelling > Face Verification 
+","YouTube Faces",0,0,0,0,0,0,2,0,2,3,5,2
+"306","Dataset","AEROBCOMP","AEROBCOMP","0","0","1","1","0","1","1","0","1","0","1","1","0","1","0","Computer Vision > Autonomous Vehicles","AEROBCOMP",0,0,0,0,0,0,0,0,0,0,0,0
+"307","Dataset","DARPAGC","DARPAGC","0","1","1","1","0","1","1","0","1","0","1","0","0","0","0","Computer Vision > Autonomous Vehicles","DARPAGC",0,0,0,0,0,0,0,0,0,0,0,0
+"308","Dataset","DARPAUC","DARPAUC","0","1","1","1","0","1","1","0","1","0","1","0","0","1","0","Computer Vision > Autonomous Vehicles","DARPAUC",0,0,0,0,0,0,0,0,0,0,0,0
+"309","Dataset","DARPARESAVE","DARPARESAVE","0","1","1","1","0","1","1","0","1","0","1","0","0","1","0","Computer Vision","DARPARESAVE",0,0,0,0,0,0,0,0,0,0,0,0
+"310","Dataset","RLCOMP","RLCOMP","0","1","1","0","0","0","1","0","0","0","1","1","0","0","0","Methodology > Multi-agent Reinforcement Learning","RLCOMP",0,0,0,0,0,0,0,0,0,0,0,0
+"311","Dataset","PLANNINGCOMP","PLANNINGCOMP","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","Methodology > Planning","PLANNINGCOMP",0,0,0,0,0,0,0,0,0,0,0,0
+"312","Dataset","UCI-KEEL","UCI-KEEL","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","Methodology > Machine Learning","UCI-KEEL",0,0,0,0,0,0,0,0,0,0,2,1
+"313","Dataset","GVGAI","GVGAI","0","1","1","1","0","1","1","0","0","0","1","0","0","0","0","Playing Games > Video Games","GVGAI",0,0,0,0,0,0,0,0,0,2,7,6
+"314","Dataset","IMAGECLEF","IMAGECLEF","0","0","0","1","0","1","0","1","0","0","0","0","0","0","0","Computer Vision > Image Retrieval","IMAGECLEF",0,0,0,1,3,2,2,4,2,3,13,14
+"315","Dataset","ANGRY-BIRDS","ANGRY-BIRDS","0","1","1","1","0","1","1","0","0","0","1","0","0","0","0","Playing Games > Video Games","ANGRY-BIRDS",0,0,0,0,1,1,0,0,0,2,6,7
+"316","Dataset","PATHFINDMAZES","PATHFINDMAZES","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","Playing Games > Video Games","PATHFINDMAZES",0,0,0,0,0,0,0,0,0,0,0,0
+"317","Dataset","Robocup","Robocup","0","0","1","1","1","1","1","0","1","0","1","0","0","1","0","Computer Vision > Autonomous Vehicles","Robocup",3,1,8,7,8,6,2,3,6,11,24,22
+"318","Dataset","Loebner Prize","Loebner Prize","0","0","0","0","0","0","0","1","1","0","0","0","0","1","0","Methodology","Loebner Prize",0,0,0,0,0,0,0,0,1,0,7,2
+"319","Dataset","Turing Test","Turing Test","0","0","0","0","0","0","0","1","1","0","0","0","0","1","0","Methodology","Turing Test",0,0,0,4,1,3,2,9,37,49,96,104
+"320","Dataset","BotPrize","BotPrize","0","0","0","0","0","0","1","0","1","0","1","0","0","1","0","Computer Code > Chatbots","BotPrize",0,0,0,1,0,1,0,1,0,0,2,1
+"321","Dataset","Robo chat challenge","Robo chat challenge","0","0","0","0","0","0","0","1","1","0","0","0","0","1","0","Computer Code > Chatbots","Robo chat challenge",0,0,0,0,0,0,0,0,0,0,0,0
+"322","Dataset","Trading Agents Competition","Trading Agents Competition","0","0","0","0","0","0","1","0","1","0","0","0","0","1","0","Computer Code > Chatbots","Trading Agents Competition",1,0,0,0,0,0,0,0,0,0,0,0
+"323","Dataset","UCI","UCI","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Methodology > Machine Learning","UCI",37,69,44,79,155,139,182,231,394,493,884,1023
+"324","Dataset","OpenML","OpenML","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Methodology > Machine Learning","OpenML",0,0,0,0,0,0,0,3,2,14,49,63
+"325","Dataset","DCASE","DCASE","0","0","0","0","1","1","0","0","0","0","0","0","0","0","0","Audio","DCASE",0,0,0,1,0,0,0,1,1,7,27,36
+"326","Dataset","MediaEval","MediaEval","0","0","0","0","1","1","0","0","0","0","0","0","0","0","0","Audio","MediaEval",0,0,0,0,0,0,0,2,1,0,8,10
+"327","Dataset","RecSys","RecSys","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","Miscellaneous > Recommendation Systems","RecSys",1,0,4,11,16,20,24,43,42,62,133,132
+"328","Dataset","MIREX","MIREX","0","0","0","0","1","1","0","1","0","0","0","0","0","0","0","Audio","MIREX",1,0,0,2,2,0,2,0,3,6,10,10
